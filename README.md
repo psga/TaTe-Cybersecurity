@@ -1,2 +1,2 @@
 # TaTe-Cybersecurity
-![alt text]("img1.png")
+![alt text]("img/IMG1.png")
